@@ -5,7 +5,6 @@ this is our first change and change and eit test
 this is our new chnage this sdassaasasdasdasaasd
 testassdad
 this is my first update
-this is my Second update
 hello 
 hi
 this is my final repo adsadad
